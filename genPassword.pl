@@ -19,7 +19,7 @@ our $cfg = {
 	digits_len => 2,
 	num_digits => 1,
 	chars => 1,
-	chars_str => '~`!@#$%^&*-_=+\/.,;:|',
+	chars_str => '~!@#$%^&*-_=+\/;:',
 	chars_min => 1,
 	chars_max => 3};
 
